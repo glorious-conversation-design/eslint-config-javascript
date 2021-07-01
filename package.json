@@ -1,0 +1,31 @@
+{
+  "name": "@epiphany-rbc/eslint-config-javascript",
+  "version": "1.0.4",
+  "description": "Epiphany RBC Eslint Ruleset for Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Epiphany RBC",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">= 7",
+    "eslint-config-standard": "16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1 || ^5.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glorious-conversation-design/eslint-config-javascript.git"
+  },
+  "keywords": [
+    "epiphany-rbc",
+    "eslint-javascript"
+  ],
+  "bugs": {
+    "url": "https://github.com/glorious-conversation-design/eslint-config-javascript/issues"
+  },
+  "homepage": "https://github.com/glorious-conversation-design/eslint-config-javascript#readme"
+}
