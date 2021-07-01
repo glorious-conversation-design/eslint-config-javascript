@@ -4,10 +4,10 @@ This is a eslint config plugin for Epiphany. More info [see following](https://w
 
 ## Usage
 
-Install Eslint version 7 on your project
+Install Eslint version 7 on your project and Epiphany Javascript Eslint config package
 
 ```javascript
-npm i eslint --save-dev
+npm i eslint @epiphany-rbc/eslint-config-javascript --save-dev
 ```
 
 create `.eslintrc` file
